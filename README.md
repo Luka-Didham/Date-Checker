@@ -15,7 +15,9 @@ https://www.rmg.co.uk/stories/topics/which-years-are-leap-years-can-you-have-lea
 ## How to run program
 To complie the program just complie the Etude2.java file  
 The command to complie the java class is as follows  
+
 `javac Etude1.java`
+
 `java Etude1`
 
 ## Test Results
