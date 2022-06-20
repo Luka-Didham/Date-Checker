@@ -1,29 +1,24 @@
-# Etude 1
+# Date-Checker
 
-##Author
-Luka Didham
-7718477
+#### Author@Luka Didham
 
-##Description
-Class which takes in text entered by the user and returns if said text is a valid date. Also accounts for leap years and century leap years e.g 1900 not a leap year, 
-however 1904 is. The rules are based off the website https://www.howmanysyllables.com/syllable_rules/howtocountsyllables
-"Written Method" rules. The leap rules are sourced from
+## Description
+Java prgram which takes in text entered by the user and returns if said text is a valid date. Also accounts for leap years and century leap years e.g 1900 not a leap year, 
+however 1904 is. The rules are based off the website https://www.howmanysyllables.com/syllable_rules/howtocountsyllables "Written Method" rules. The leap rules are sourced from
 https://www.rmg.co.uk/stories/topics/which-years-are-leap-years-can-you-have-leap-seconds#:~:text=To%20be%20a%20leap%20year,2028%20are%20all%20leap%20years.
 
-##Java Libraries 
-java.util.Scanner; 
-java.text.SimpleDateFormat;
-java.util.StringTokenizer;
+## Java Libraries Used
+`java.util.Scanner`
+`java.text.SimpleDateFormat`
+`java.util.StringTokenizer`
 
-## How to complie
+## How to run program
 To complie the program just complie the Etude2.java file  
 The command to complie the java class is as follows  
-```javac Etude2.java```
+`javac Etude1.java`
+`java Etude1`
 
-## How to run the program  
-Run the command to run the java class and enter dates to see if they are valid.   
-
-##Test Results
+## Test Results
     6/6/6
     06 Jun 2006
     3/mar/99
